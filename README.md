@@ -3,7 +3,7 @@ I am a young developer who aspires to become a professional in the field of mach
 
 
 ## 🌐 Socials:
-[![telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=t.me/chebukkk)](t.me/chebukkk)
+[![telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=t.me/chebukkk)]([t.me/chebukkk](https://t.me/chebukkk))
 [![gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red&link=chebukshulgin@gmail.com)](chebukshulgin@gmail.com)
 
 # 💻 Tech Stack:
