@@ -30,7 +30,5 @@ I am a young developer who aspires to become a professional in the field of mach
 ![Tokenizers](https://img.shields.io/badge/Tokenizers-%23FF6F61.svg?style=for-the-badge&logo=data&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VladShulg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VladShulg&theme=dark&hide_border=false)<br/>
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VladShulg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
