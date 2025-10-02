@@ -1,6 +1,8 @@
 # About Me:
 I am a young developer who aspires to become a professional in the field of machine learning. <br>At the moment, I am actively studying ML and have skills in front-end development. <br>I like to learn new things and quickly adapt to changing technologies. <br>Always open to new challenges and opportunities for growth.<br>I often participate in hackathons, have prizes and first places for them.<br>Have 1 scientific work in ML.<br>Hackaton team leader.
 
+Member of Astrum AI Team (astrum-team.ru)
+
 
 ## Socials:
 [![telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/chebukkk)](https://t.me/chebukkk)
