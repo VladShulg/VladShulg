@@ -1,8 +1,9 @@
 # About Me:
 I am a young developer who aspires to become a professional in the field of machine learning. <br>At the moment, I am actively studying ML and have skills in front-end development. <br>I like to learn new things and quickly adapt to changing technologies. <br>Always open to new challenges and opportunities for growth.<br>I often participate in hackathons, have prizes and first places for them.<br>Have 1 scientific work in ML.<br>Hackaton team leader.
 
-## 🚀 Astrum AI Team
-> Member of [Astrum AI Team](https://astrum-team.ru) — community of AI enthusiasts, researchers, and developers working on applied ML tasks.
+## 🚀 Member of [Astrum AI Team](https://astrum-team.ru)
+
+[![Astrum AI](https://img.shields.io/badge/Astrum%20AI-Team-blueviolet?style=for-the-badge&logo=starship&logoColor=white)](https://astrum-team.ru)
 
 
 ## Socials:
