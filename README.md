@@ -1,6 +1,6 @@
 ## Vladislav Shulgin
 
-[![Astrum AI](https://img.shields.io/badge/Astrum%20AI-Team-111111?style=for-the-badge&logoColor=white)](https://astrum-team.ru)
+[![Astrum AI](https://img.shields.io/badge/Astrum%20AI-Team-1E40AF?style=for-the-badge&logoColor=white&labelColor=ffffff)](https://astrum-team.ru)
 
 ---
 
